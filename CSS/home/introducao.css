@@ -31,14 +31,6 @@
     border-radius: 4px;
 }
 
-@media (max-width: 1200px) {
-    .introducao h1 {
-        font-size: 3rem;
-    }
-    .introducao p {
-        font-size: 1.125rem;
-    }
-}
 
 @media (max-width: 800px) {
     .introdução-bg {
