@@ -1,6 +1,7 @@
 @import './global/global.css';
 @import './utilidades/tipografia.css';
 @import './utilidades/cores.css';
+@import './utilidades/animacao.css';
 
 @import './global/header.css';
 @import './global/footer.css';
@@ -37,5 +38,9 @@
 @import './Termos/termos.css';
 
 /*orçamento*/
-@import './orcamento/orcamento.css'
+@import './orcamento/orcamento.css';
+
+
+
+
 
